@@ -1,6 +1,6 @@
 main:
   - name: "Privacy"
-    url: "/privacy/"
+    url: "/privacy"
     weight: 2
 
 
