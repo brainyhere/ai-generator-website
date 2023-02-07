@@ -2,8 +2,8 @@
 ---
 
 // Colors
-$primary: #e5261f;
-$primary-dark: #a01b16;
+$primary: rgba(255, 0, 245, 0.78);
+$primary-dark: rgba(255, 0, 245, 0.36);
 $secondary: #f88379;
 $black: #2f2f41;
 $white: #ffffff;
@@ -11,7 +11,7 @@ $white-offset: #fff6f8;
 $steel: #5c5a5a;
 
 // Links
-$link-color: $primary;
+$link-color: $primary-dark;
 $link-decoration: none;
 $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;

@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Brainy - AI Product Description.
+# Brainy - AI Copywriter.
 
-Brainy is a a shopify app that manages your products using the latest AI models.
+Brainy is a shopify app that manages your products using the latest AI models.
