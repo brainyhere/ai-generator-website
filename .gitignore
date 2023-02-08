@@ -1,22 +1,23 @@
-# NPM
-node_modules
-npm-debug.log
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# Jekyll
-_site
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-Gemfile.lock
-**/Gemfile.lock
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
 
-# Temporary files
-tmp
+# testing
+/coverage
+
+# production
+/build
+
+# misc
 .DS_Store
-Desktop.ini
-._*
-Thumbs.db
-.Spotlight-V100
-.Trashes
-.idea
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
