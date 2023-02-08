@@ -1,0 +1,41 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true
+  },
+  "extends": ["plugin:react/recommended", "airbnb"],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true,
+      "modules": true
+    },
+    "ecmaVersion": 12,
+    "sourceType": "module"
+  },
+  "plugins": ["react"],
+  "parser": "babel-eslint",
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "paths": ["src"]
+      }
+    }
+  },
+  "rules": {
+    "indent": "off",
+    "object-curly-spacing": "off",
+    "no-unused-vars": "off",
+    "spaced-comment": "off",
+    "max-len": "off",
+    "react/jsx-indent": "off",
+    "quotes": "off",
+    "no-multiple-empty-lines": "off",
+    "react/jsx-closing-tag-location" : "off",
+    "react/jsx-closing-bracket-location": "off",
+    "react/jsx-one-expression-per-line": "off",
+    "react/jsx-indent-props": "off",
+    "react/jsx-tag-spacing": "off",
+    "no-trailing-spaces": "off"
+
+  }
+}
