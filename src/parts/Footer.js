@@ -10,7 +10,7 @@ export default function Footer() {
       <div className="container flex-col mx-auto ">
         <div className="flex flex-col sm:flex-row mt-8 justify-center">
           <div className="w-1/3 flex-col ml-16 mr-8">
-            <BrandIcon />
+            {/*<BrandIcon />*/}
             {/*<p className="w-full text-lg text-gray-400 font-light">*/}
             {/*  */}
             {/*</p>*/}

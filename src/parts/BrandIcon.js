@@ -10,7 +10,7 @@ export default function BrandIcon() {
       type="link"
       href="/"
     >
-      <img className="w-24" src="assets/images/logo/logo.png" alt="logo" />
+      <img className="w-36" src="assets/images/logo/logo.png" alt="logo" />
     </Button>
   );
 }
