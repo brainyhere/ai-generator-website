@@ -22,9 +22,9 @@ export default function Hero() {
             Brainy is a shopify app that manages your products using the latest AI models.
           </p>
 
-          <Button href="" type="link" className="flex w-71 h-18 items-center px-14 py-5 text-white text-xl bg-theme-purple rounded-lg shadow-2xl hover:bg-dark-theme-purple transition duration-200">
+          <Button target="_blank" isExternal href="https://apps.shopify.com/brainy-ai-product-description?st_source=website" rel="noopener noreferrer" type="link" className="flex w-80 h-16 items-center px-10 py-5 text-white bg-theme-purple rounded-full shadow-2xl hover:bg-dark-theme-purple transition duration-200">
             Add to your Shopify store
-            <svg className="ml-2 w-7 h-7 text-white animate-bounce-x" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <svg className="ml-2  h-7 text-white animate-bounce-x" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
             </svg>
           </Button>
