@@ -105,22 +105,14 @@
     ],
     "testimonial": [
         {
-            "name": "Sasha Rose",
-            "company": "Owner, Surveyor Corps",
-            "testimoni": "Thanks for Racxstudio, you guys are the best! Keep up the great work!",
-            "imageUrl": "assets/images/Sasha.jpg"
+            "name": "Lucy",
+            "company": "Janga Apparel",
+            "testimoni": "Amazing app, would recommend to anyone who doesn't want to waste time in setting up their product description and SEO content. Support team is super helpful and VERY quick to respond."
         },
         {
-            "name": "Kruger Khan",
-            "company": "Director, Shultan Oil",
-            "testimoni": "I just wanted to let you know that it’s been great working with Racxstudio.",
-            "imageUrl": "assets/images/Kruger.jpg"
-        },
-        {
-            "name": "Reiner John",
-            "company": "CEO, Marley CO",
-            "testimoni": "Racxstudio is so great. Thank you so much for a job well done.",
-            "imageUrl": "assets/images/Reiner.jpg"
+            "name": "Arianne",
+            "company": "Bump 2 Baby Shop",
+            "testimoni": "This App is literally a life changer. When I first signed up I had some question so I clicked on the help chat and got Daniel. He was so helpful and amazing, he worked with me and help me with any questions that I had about the App. Would highly recommend this App for your store!"
         }
     ],
     "team": [

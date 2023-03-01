@@ -10,7 +10,7 @@ export default function Footer() {
       <div className="container flex-col mx-auto ">
         <div className="flex flex-col sm:flex-row mt-8 justify-center">
           <div className="w-1/3 flex-col ml-16 mr-8">
-            {/*<BrandIcon />*/}
+            <BrandIcon size="small"/>
             {/*<p className="w-full text-lg text-gray-400 font-light">*/}
             {/*  */}
             {/*</p>*/}
@@ -36,7 +36,7 @@ export default function Footer() {
             <Button href="https://www.linkedin.com/in/eladkishon/" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
               LinkedIn
             </Button>
-            <Button href="https://github.com/eladkishon" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
+            <Button href="https://github.com/brainyhere" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
               Github
             </Button>
           </div>

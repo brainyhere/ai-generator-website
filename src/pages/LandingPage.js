@@ -26,7 +26,7 @@ export default class LandingPage extends Component {
         {/*<Service data={Data.service} />*/}
         {/*<Portfolio data={Data.portfolio} />*/}
         {/*<Advantage data={Data.advantage} />*/}
-        {/*<Testimonial data={Data.testimonial} />*/}
+        <Testimonial data={Data.testimonial} />
         {/*<Discuss />*/}
         <Footer />
       </>

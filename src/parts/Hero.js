@@ -15,11 +15,11 @@ export default function Hero() {
           <h1 className="text-4xl sm:text-6xl text-theme-blue font-bold leading-tight mb-6">
             Brainy
             <br />
-            AI Copywriter.
+            AI Product Content
           </h1>
 
           <p className="font-light text-xl text-gray-400 leading-relaxed mb-16">
-            Brainy is a shopify app that manages your products using the latest AI models.
+            Brainy is a Shopify app that helps you write your product content including descriptions, SEO content and images alternate text and notifies you about issues with your products using the latest AI models.
           </p>
 
           <Button target="_blank" isExternal href="https://apps.shopify.com/brainy-ai-product-description?st_source=website" rel="noopener noreferrer" type="link" className="flex w-80 h-16 items-center px-10 py-5 text-white bg-theme-purple rounded-full shadow-2xl hover:bg-dark-theme-purple transition duration-200">

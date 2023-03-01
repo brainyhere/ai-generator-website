@@ -35,7 +35,7 @@
     "react/jsx-one-expression-per-line": "off",
     "react/jsx-indent-props": "off",
     "react/jsx-tag-spacing": "off",
-    "no-trailing-spaces": "off"
-
+    "no-trailing-spaces": "off",
+    "no-bitwise": "off"
   }
 }
